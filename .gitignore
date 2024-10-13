@@ -1,0 +1,6 @@
+demo-shop-ui/*
+!demo-shop-ui/.gitkeep
+demo-shop-api/*
+!demo-shop-api/.gitkeep
+
+.DS_Store
